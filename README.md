@@ -1,9 +1,27 @@
 # Heart-Disease-Prediction-XGBoost
 # ❤️ Heart Disease Prediction using XGBoost
 
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-orange?logo=scikitlearn)
+![XGBoost](https://img.shields.io/badge/XGBoost-ML-green)
+![License](https://img.shields.io/badge/License-MIT-blue)
+
+
 ## 📌 Overview
 
 This project predicts whether a patient has heart disease using the XGBoost classifier. It demonstrates a complete machine learning workflow from preprocessing to model evaluation.
+
+## Workflow
+
+1. Load Dataset
+2. Data Preprocessing
+3. Target Encoding
+4. Train-Test Split
+5. Build Scikit-Learn Pipeline
+6. Train XGBoost Model
+7. Evaluate Model
+8. Visualize Results
+9. Interpret Feature Importance
 
 ## 🚀 Features
 
