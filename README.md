@@ -34,6 +34,19 @@ This project predicts whether a patient has heart disease using the XGBoost clas
 - Matplotlib
 - Seaborn
 
+
+## ROC Curve
+
+![ROC Curve](images/roc_curve.png)
+
+## Feature Importance
+
+![Feature Importance](images/feature_importance.png)
+
+## Confusion Matrix
+
+![Confusion Matrix](images/confusion_matrix.png)
+
 ## 📁 Files
 
 - `Heart_Disease_Prediction_XGBoost.ipynb`
