@@ -11,6 +11,16 @@
 
 This project predicts whether a patient has heart disease using the XGBoost classifier. It demonstrates a complete machine learning workflow from preprocessing to model evaluation.
 
+## 📊 Model Performance
+
+| Metric | Score |
+|--------|------:|
+| Accuracy | 75.93% |
+| Precision | 74.19% |
+| Recall | 85.19% |
+| F1 Score | 79.31% |
+| ROC-AUC | 0.92 |
+
 ## Workflow
 
 1. Load Dataset
