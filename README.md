@@ -32,6 +32,11 @@ This project predicts whether a patient has heart disease using the XGBoost clas
 7. Evaluate Model
 8. Visualize Results
 9. Interpret Feature Importance
+## 📂 Dataset
+
+- Heart Disease Dataset
+- Source: Kaggle (UCI Heart Disease Dataset)
+
 
 ## 🚀 Features
 
@@ -80,3 +85,11 @@ This project predicts whether a patient has heart disease using the XGBoost clas
 - `Heart_Disease_Prediction_XGBoost.ipynb`
 - `heart_disease.csv`
 - `requirements.txt`
+
+- ## 📌 Conclusion
+
+This project demonstrates an end-to-end machine learning workflow for predicting heart disease using XGBoost.
+
+The model achieved a **ROC-AUC score of 0.92**, indicating excellent discriminative performance. Feature importance analysis showed that **Chest Pain Type**, **Thallium**, and **Number of Vessels Fluoroscopy** were among the most influential predictors.
+
+Future improvements include hyperparameter tuning, cross-validation, model explainability using SHAP, and deployment with Streamlit.
